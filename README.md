@@ -20,7 +20,7 @@
 </p>
 	
 ### QR CODE
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Janithsadanuwan/petlhi-Qr?v=1)
+[![Run on Repl.it]
 
 ### Deploy Page
 [♡DEPLOY♡](https://heroku.com/deploy?template=https://github.com/VihagaThiksana1/raganork-deploy.git)
