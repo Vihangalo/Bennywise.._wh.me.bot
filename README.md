@@ -16,7 +16,7 @@
     <br>
         <a href="https://chat.whatsapp.com/DVtNkqayhDfA2u5CmRNvHi">WhatsApp Group</a> |
       
-    <br>
+    VIHAGA THIKSANA 
 </p>
 	
 ### QR CODE
