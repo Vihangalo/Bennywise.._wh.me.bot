@@ -23,8 +23,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Janithsadanuwan/petlhi-Qr?v=1)
 
 ### Deploy Page
-[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FVihagaThiksana1%2FRaganork&template=https%3A%2F%2Fgithub.com%2FVihagaThiksana1%2Fraganork-deploy.git)
-</div>
+[Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FVihagaThiksana1%2FRaganork&template=https%3A%2F%2Fgithub.com%2Fmuthurashmika%2Fraganork-deploy.git)
 
 
  
